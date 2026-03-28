@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# Кэши и артефакты обучения (раскомментируйте при необходимости)
+# data/
+# cache/
+# solution1/cache/
+# solution1/cache_coles/
+# solution1/submissions/
+# solution2/results/
+# *.parquet
